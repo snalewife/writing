@@ -39,6 +39,7 @@ html {
   a {
     color: #ff6a87;
     text-decoration: none;
+    cursor: pointer;
   }
   hr {
     width: 5%;
