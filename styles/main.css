@@ -1,6 +1,8 @@
 html {
   background-color: #181a1b;
   color: #e8e6e3;
+  font-family: Arial;
+  line-height: 1.5em;
   font-size: 1.4rem;
   color-scheme: dark;
   header {
